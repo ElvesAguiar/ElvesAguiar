@@ -1,10 +1,35 @@
-### Ola, Eu me Chame Elves e eu gosto de Java
+## Ola, eu me chame Elves e eu gosto de Java
 
-<!--
 
 - 🌱 I’m currently learning Java Spring boot
 - 👯 I’m looking to collaborate on in projects with my skills
-- 🤔 I’m looking for help with 
-- 💬 Ask me about anything that i know
-- 📫 How to reach me: https://www.linkedin.com/in/elves-aguiar-91a1551a0/
--->
+- 🤔 I’m looking for help with nothing in particular rigth now, but i will ask for help with if a need it :) 
+- 💬 Ask me about anything that i know and i will answer honestly
+- 📫 How to reach me: elvesmhs@hotmail.com
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="icon-Js" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
+  <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="icon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+
+  <a href = "mailto:elvesmhsnogueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/elves-aguiar-91a1551a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-lemon-rho-38.vercel.app/api?username=elvesAguiar&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
