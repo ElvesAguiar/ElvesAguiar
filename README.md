@@ -19,14 +19,14 @@
 </div>
   
   ##
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ElvesAguiar&theme=dark&hide_border=true)](https://git.io/streak-stats)
   <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="ElvesAguiar GitHub Stats" src="https://github-readme-stats-lemon-rho-38.vercel.app/api?username=ElvesAguiar&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=ElvesAguiar&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  
 </details>
  
 <div> 
