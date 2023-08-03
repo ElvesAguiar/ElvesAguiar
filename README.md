@@ -19,19 +19,24 @@
 </div>
   
   ##
+
+  <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="ElvesAguiar GitHub Stats" src="https://github-readme-stats-lemon-rho-38.vercel.app/api?username=ElvesAguiar&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ElvesAguiar&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</details>
  
 <div> 
+
 
   <a href = "mailto:elvesmhsnogueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elves-aguiar-91a1551a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-</details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ElvesAguiar GitHub Stats" src="https://github-readme-stats-lemon-rho-38.vercel.app/api?username=ElvesAguiar&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=ElvesAguiar)](https://git.io/streak-stats)
 
-</details>
+
