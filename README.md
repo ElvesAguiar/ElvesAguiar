@@ -1,7 +1,7 @@
 ## Ola, eu me chame Elves e eu gosto de Java
 
 
-- 🌱 I’m currently learning Java Spring boot
+- 🌱 I’m currently learning Java/Spring boot... and JS. So, i can make front and for my apps :)
 - 👯 I’m looking to collaborate in projects with my skills
 - 🤔 I’m looking for help with nothing in particular rigth now, but i will ask for help with if a need it :) 
 - 💬 Ask me about anything that i know and i will answer honestly
