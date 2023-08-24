@@ -1,4 +1,4 @@
-## Ola, eu me chame Elves e eu gosto de Java
+## Ola, eu me chamo Elves e eu gosto de Java
 
 
 - 🌱 I’m currently learning Java/Spring boot... and JS. So, i can make front and for my apps :)
