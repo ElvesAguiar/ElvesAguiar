@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Java/Spring boot... and JS. So, i can make frontend for my apps :)
 - 👯 I’m looking to collaborate in projects with my skills
-- 🤔 I’m looking for help with nothing in particular rigth now, but i will ask for help with if a need it :) 
+- 🤔 I’m not looking for help with nothing in particular rigth now, but i will ask for help with if a need it :) 
 - 💬 Ask me about anything that i know and i will answer honestly
 - 📫 How to reach me: elvesmhs@hotmail.com
 
@@ -19,7 +19,8 @@
 </div>
   
   ##
-   [![Top Langs](https://github-readme-stats-lemon-rho-38.vercel.app/api/top-langs/?username=ElvesAguiar)](https://github.com/ElvesAguiar/github-readme-stats)
+   
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvesAguiar&size_weight=0.5&count_weight=0.5)
    ##
    ##
 [![GitHub Streak](https://streak-stats.demolab.com?user=ElvesAguiar&theme=dark&hide_border=true)](https://git.io/streak-stats)
@@ -30,7 +31,7 @@
   <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ElvesAguiar GitHub Stats" src="https://github-readme-stats-lemon-rho-38.vercel.app/api?username=ElvesAguiar&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elvesAguiar&show_icons=true&theme=transparent)
 
 
   
